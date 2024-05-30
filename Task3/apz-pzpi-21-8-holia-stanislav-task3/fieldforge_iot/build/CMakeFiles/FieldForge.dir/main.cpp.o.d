@@ -1,5 +1,5 @@
 CMakeFiles/FieldForge.dir/main.cpp.o: \
- /home/stanislav/Desktop/NURE/works/3\ курс/2\ семестр/апз/apz-pzpi-21-8-holia-stanislav/Task3/fieldforge_iot/main.cpp \
+ /home/stanislav/Desktop/NURE/works/3\ курс/2\ семестр/апз/apz-pzpi-21-8-holia-stanislav/Task3/apz-pzpi-21-8-holia-stanislav-task3/fieldforge_iot/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \

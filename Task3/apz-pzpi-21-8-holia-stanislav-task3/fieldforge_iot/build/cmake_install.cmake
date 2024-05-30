@@ -1,4 +1,4 @@
-# Install script for directory: /home/stanislav/Desktop/NURE/works/3 курс/2 семестр/апз/apz-pzpi-21-8-holia-stanislav/Task3/fieldforge_iot
+# Install script for directory: /home/stanislav/Desktop/NURE/works/3 курс/2 семестр/апз/apz-pzpi-21-8-holia-stanislav/Task3/apz-pzpi-21-8-holia-stanislav-task3/fieldforge_iot
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/stanislav/Desktop/NURE/works/3 курс/2 семестр/апз/apz-pzpi-21-8-holia-stanislav/Task3/fieldforge_iot/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/stanislav/Desktop/NURE/works/3 курс/2 семестр/апз/apz-pzpi-21-8-holia-stanislav/Task3/apz-pzpi-21-8-holia-stanislav-task3/fieldforge_iot/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

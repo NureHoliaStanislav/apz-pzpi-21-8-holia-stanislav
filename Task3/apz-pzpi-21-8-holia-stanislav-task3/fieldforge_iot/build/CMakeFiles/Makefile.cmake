@@ -7,11 +7,11 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/home/stanislav/Desktop/NURE/works/3 курс/2 семестр/апз/apz-pzpi-21-8-holia-stanislav/Task3/fieldforge_iot/CMakeLists.txt"
+  "/home/stanislav/Desktop/NURE/works/3 курс/2 семестр/апз/apz-pzpi-21-8-holia-stanislav/Task3/apz-pzpi-21-8-holia-stanislav-task3/fieldforge_iot/CMakeLists.txt"
   "CMakeFiles/3.28.3/CMakeCCompiler.cmake"
   "CMakeFiles/3.28.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.28.3/CMakeSystem.cmake"
-  "/home/stanislav/Desktop/NURE/works/3 курс/2 семестр/апз/apz-pzpi-21-8-holia-stanislav/Task3/fieldforge_iot/cpr/cpr-config.cmake"
+  "/home/stanislav/Desktop/NURE/works/3 курс/2 семестр/апз/apz-pzpi-21-8-holia-stanislav/Task3/apz-pzpi-21-8-holia-stanislav-task3/fieldforge_iot/cpr/cpr-config.cmake"
   "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake"
   "/usr/share/cmake-3.28/Modules/CMakeCXXInformation.cmake"
   "/usr/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake"

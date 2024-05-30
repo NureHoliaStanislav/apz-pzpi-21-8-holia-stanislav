@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/stanislav/Desktop/NURE/works/3 курс/2 семестр/апз/apz-pzpi-21-8-holia-stanislav/Task3/fieldforge_iot/main.cpp" "CMakeFiles/FieldForge.dir/main.cpp.o" "gcc" "CMakeFiles/FieldForge.dir/main.cpp.o.d"
+  "/home/stanislav/Desktop/NURE/works/3 курс/2 семестр/апз/apz-pzpi-21-8-holia-stanislav/Task3/apz-pzpi-21-8-holia-stanislav-task3/fieldforge_iot/main.cpp" "CMakeFiles/FieldForge.dir/main.cpp.o" "gcc" "CMakeFiles/FieldForge.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
