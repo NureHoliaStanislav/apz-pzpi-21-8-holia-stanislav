@@ -28,6 +28,7 @@ COPY requirements.txt .
 RUN pip install -r requirements.txt
 RUN pip install djangorestframework-gis
 RUN pip install PyJWT
+RUN pip install django-cors-headers
 
 # Bundle app source
 COPY . .

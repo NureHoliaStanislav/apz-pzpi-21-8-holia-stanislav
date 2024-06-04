@@ -47,9 +47,12 @@ INSTALLED_APPS = [
     'django.contrib.gis',
     'djangoapp',
     'rest_framework',
+    'corsheaders',
 ]
 
+
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',  
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -142,3 +145,4 @@ AUTH_USER_MODEL = "djangoapp.User"
 AUTHENTICATION_BACKENDS = [
     'django.contrib.auth.backends.ModelBackend',
 ]
+CORS_ALLOW_ALL_ORIGINS = True
