@@ -25,23 +25,23 @@ function Header({ user, onLogout }) {
   };
 
   const handleLogin = () => {
-    navigate('/login'); // navigate to login page
+    navigate('/login'); 
   };
 
   const handleSignup = () => {
-    navigate('/sign-up'); // navigate to signup page
+    navigate('/sign-up'); 
   };
 
   const handleMines = () => {
-    navigate('/mines'); // navigate to signup page
+    navigate('/mines'); 
   };
 
   const handleUsers = () => {
-    navigate('/users'); // navigate to signup page
+    navigate('/users'); 
   };
 
   const handleTrainings = () => {
-    navigate('/trainings'); // navigate to signup page
+    navigate('/trainings');
   };
 
   const handleLanguageMenu = (event) => {
